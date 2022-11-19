@@ -42,7 +42,7 @@
         "**/*.prefab": true,
         "**/*.unity": true,
         "build/": false,
-        "Build/": true,
+        "Build/": false,
         "Library/": true,
         "library/": true,
         "obj/": true,
